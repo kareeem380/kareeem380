@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm Karim Ait Bouaddi
 I'm a 4th-year engineering student at EMSI. I'm passionate about technology and programming, and I love to learn and explore new things.
 
-Skills and interests
+##Skills and interests
 Programming languages: Java, Python, C++
 Web development: HTML, CSS, JavaScript, React, Node.js
 Database management: SQL, MongoDB
@@ -26,8 +26,8 @@ Other interests: Data analysis, cybersecurity, software engineering
 Projects
 I'm currently working on various personal and academic projects, some of which are available on my GitHub. Here are a few examples:
 
-Project 1: This project is about building a web application using React and Node.js.
-Project 2: This project is about implementing a machine learning algorithm using TensorFlow and Keras.
-Project 3: This project is about analyzing a dataset using Python and SQL.
+##Project 1: This project is about building a web application using React and Node.js.
+##Project 2: This project is about implementing a machine learning algorithm using TensorFlow and Keras.
+##Project 3: This project is about analyzing a dataset using Python and SQL.
 Contact
 You can reach me via email at karimbouaddi380@gmail.com. I'm open to collaboration and discussion on various topics related to technology and programming.
