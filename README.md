@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋, I'm Karim Ait Bouaddi
+I'm Karim Ait Bouaddi
 I'm a 4th-year engineering student at EMSI. I'm passionate about technology and programming, and I love to learn and explore new things.
 
 Skills and interests
