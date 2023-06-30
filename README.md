@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">Software Engineering @EMSI</h3>
+<h3 align="center">Software Engineer @EMSI</h3>
 
 - 🔭 I’m currently working on **Quiz Application**
 
