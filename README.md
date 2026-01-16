@@ -5,11 +5,6 @@
 - 💬 Ask me about **Angular, TypeScript, and Java Ecosystem**
 - 📫 How to reach me: **Karimbouadd380@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karim-ait-bouaddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim ait bouaddi" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 #### 💻 Development
@@ -28,12 +23,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareeem380&show_icons=true&locale=en&layout=compact&theme=vision-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareeem380&show_icons=true&locale=en&theme=vision-dark" />
 </p>
