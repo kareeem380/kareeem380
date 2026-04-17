@@ -5,5 +5,4 @@
 - 💬 Ask me about **Angular, TypeScript, and Java Ecosystem**
 - 📫 How to reach me: **Karimbouadd380@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
 
