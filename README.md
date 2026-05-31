@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently mastering **Spring Boot & Cloud Native architectures**
 - 💬 Ask me about **Angular, TypeScript, and Java Ecosystem**
-- 📫 How to reach me: **Karimbouadd380@gmail.com**
+- 📫 How to reach me: **Karimbouaddi380@gmail.com**
 
 
